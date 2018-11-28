@@ -1,8 +1,10 @@
-# jiandan.net/xxoo crawler #
+# 煎蛋妹子图爬虫 jiandan.net/xxoo crawler 
 
 ![work with](https://img.shields.io/badge/py2-NoBrowser-green.svg)
 ![work with](https://img.shields.io/badge/py3-Browser&Selenium-blue.svg)
 ![work with](https://img.shields.io/badge/py2-Browser&Selenium-red.svg)
+
+因为扫黄打非，煎蛋官方声明妹子图会下架。如果下架，项目将会失效。
 
 Spider for jiandan.net/xxoo girl's pics. 
 
@@ -11,8 +13,6 @@ Spider for jiandan.net/xxoo girl's pics.
 推荐使用now文件夹下的[最新脚本](https://github.com/B1u3Buf4/JiandaXOcrawler/blob/master/now/NoDependence)，无浏览器版本（NoBrowser script）或者spider，保持对煎蛋robots.txt的尊重，间隔时间会要求在大于等于6秒的范围内。
 
 今天刚发现会被ban IP，无所谓，妹子图每次只剩下30多页的内容了，质量也如数量一般越来越差。已经直接去微博拿图了。可能ban一次的时间是1个月。使用代理可以过，不过不要用西刺代理，上面的代理全部已经进入黑名单了。已经测试。
-
-当然，还有一个思路，就是模拟移动端浏览器。已经被ban的，可以使用模拟移动端浏览。暂时没什么心情开发，搁置。
 
 ~~python2使用phantomJS；python3使用headless Chrome。~~
 
